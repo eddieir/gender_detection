@@ -1,4 +1,4 @@
-gender and age detection with using voice and image 
+**gender and age detection with using voice and image **
 
 For this project there is two main objectives: First objective is gender detection based on the input audio from the user or using the already registered voice from the user, the second objective is age and gender detection based input pictures. 
 
